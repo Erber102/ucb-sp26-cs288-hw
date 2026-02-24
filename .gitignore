@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# virtual environment
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# logs
+*.log
+
+# VSCode
+.vscode/
+
+# large files
+*.pt
+*.pth
+*.ckpt
